@@ -253,6 +253,11 @@
   - FlippoLighter
   - MysteryStaffPlushieBox
   # Omu end
+  - CardBoxBlack # GoobStation
+  - CardBoxNanotrasen # GoobStation
+  - FoodSnackLollypopWrapped # Goobstation
+  - FoodSnackLollypopWrappedRainbow # Goobstation
+  - FoodSnackLollypopWrappedCarp # Goobstation
   - TowelColorBlack
   - TowelColorDarkBlue
   - TowelColorDarkGreen
@@ -272,6 +277,7 @@
   # Begin DeltaV Additions
   - GoldRing
   - SilverRing
+  - Cane
   - WhiteCane
   - TapeRecorder
   - DrinkOniGourd
