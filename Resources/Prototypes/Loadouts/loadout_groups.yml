@@ -253,11 +253,11 @@
   - FlippoLighter
   - MysteryStaffPlushieBox
   # Omu end
-#  - CardBoxBlack # GoobStation
-#  - CardBoxNanotrasen # GoobStation
-#  - FoodSnackLollypopWrapped # Goobstation
-#  - FoodSnackLollypopWrappedRainbow # Goobstation
-#  - FoodSnackLollypopWrappedCarp # Goobstation
+#  - CardBoxBlack # GoobStation # Omu cleaning up as part of PR#1389
+#  - CardBoxNanotrasen # GoobStation # Omu cleaning up as part of PR#1389
+#  - FoodSnackLollypopWrapped # Goobstation # Omu cleaning up as part of PR#1389
+#  - FoodSnackLollypopWrappedRainbow # Goobstation # Omu cleaning up as part of PR#1389
+#  - FoodSnackLollypopWrappedCarp # Goobstation # Omu cleaning up as part of PR#1389
   - TowelColorBlack
   - TowelColorDarkBlue
   - TowelColorDarkGreen
@@ -277,7 +277,7 @@
   # Begin DeltaV Additions
   - GoldRing
   - SilverRing
-#  - Cane
+#  - Cane # Omu, PR#1389
   - WhiteCane
   - TapeRecorder
   - DrinkOniGourd
